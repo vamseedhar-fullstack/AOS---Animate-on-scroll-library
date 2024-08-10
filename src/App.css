@@ -1,0 +1,28 @@
+.animation{
+  background-color: blue;
+  height: 150px;
+  width: 400px;
+  margin: 10px auto;
+}
+h1 {
+ text-align: center;
+}
+.box{
+  background-color: rgb(127,93,221);
+  width: 500px;
+  color: white;
+  padding: 30px;
+  text-align: left;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  overflow: hidden;
+
+}
+.box h2 {
+  font-size:25px;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+.scrollbox{
+  border-radius: 50px;
+}
